@@ -124,7 +124,7 @@ class Spider(Spider):
                 "vod_actor": "",
                 "vod_director": "",
                 "vod_content": "",
-                "vod_play_from": "私人在线ⁱ·*₁＇",
+                "vod_play_from": "书生玩剣ⁱ·*₁＇",
                 "vod_play_url": ""
             }
 
